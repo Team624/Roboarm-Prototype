@@ -1,0 +1,13 @@
+--------------- Rebuild Started: 12/03/2018 23:56:58 Project: main.c, Configuration: ARM GCC 5.4-2016-q2-update Debug ---------------
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Debug/main.lst -g -D DEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Og -c main.c -o .\CortexM3\ARM_GCC_541\Debug\main.o
+main.c: In function 'main':
+main.c:31:11: warning: variable 'Pot_3_Val' set but not used [-Wunused-but-set-variable]
+     int16 Pot_3_Val;
+           ^
+main.c:30:11: warning: variable 'Pot_2_Val' set but not used [-Wunused-but-set-variable]
+     int16 Pot_2_Val;
+           ^
+main.c:29:11: warning: variable 'Pot_1_Val' set but not used [-Wunused-but-set-variable]
+     int16 Pot_1_Val;
+           ^
+--------------- Rebuild Succeeded: 12/03/2018 23:56:58 ---------------

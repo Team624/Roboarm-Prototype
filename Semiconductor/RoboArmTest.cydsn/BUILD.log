@@ -1,0 +1,34 @@
+--------------- Build Started: 12/06/2018 20:24:13 Project: RoboArmTest, Configuration: ARM GCC 5.4-2016-q2-update Release ---------------
+The code generation step is up to date.
+arm-none-eabi-gcc.exe -mcpu=cortex-m3 -mthumb -I. -IGenerated_Source\PSoC5 -Wa,-alh=.\CortexM3\ARM_GCC_541\Release/main.lst -g -D NDEBUG -D CY_CORE_ID=0 -Wall -ffunction-sections -ffat-lto-objects -Os -c main.c -o .\CortexM3\ARM_GCC_541\Release\main.o
+main.c: In function 'send':
+main.c:34:11: warning: variable 'sendArray' set but not used [-Wunused-but-set-variable]
+     uint8 sendArray[3];
+           ^
+main.c: In function 'update':
+main.c:101:11: warning: unused variable 'lowerTolerance' [-Wunused-variable]
+     int16 lowerTolerance = -10;
+           ^
+main.c:100:11: warning: unused variable 'upperTolerance' [-Wunused-variable]
+     int16 upperTolerance = 10;
+           ^
+main.c:73:11: warning: variable 'temp1' set but not used [-Wunused-but-set-variable]
+     int16 temp1 = Pot_1_Val;
+           ^
+main.c:69:11: warning: variable 'temp3' set but not used [-Wunused-but-set-variable]
+     int16 temp3 = Pot_3_Val;
+           ^
+main.c:68:11: warning: variable 'temp2' set but not used [-Wunused-but-set-variable]
+     int16 temp2 = Pot_2_Val;
+           ^
+arm-none-eabi-ar.exe -rs .\CortexM3\ARM_GCC_541\Release\RoboArmTest.a .\CortexM3\ARM_GCC_541\Release\Pot_1.o .\CortexM3\ARM_GCC_541\Release\Pot_2.o .\CortexM3\ARM_GCC_541\Release\Pot_3.o .\CortexM3\ARM_GCC_541\Release\Pot_Values.o .\CortexM3\ARM_GCC_541\Release\ADC_SAR_1.o .\CortexM3\ARM_GCC_541\Release\ADC_SAR_1_INT.o .\CortexM3\ARM_GCC_541\Release\ADC_SAR_1_PM.o .\CortexM3\ARM_GCC_541\Release\ADC_SAR_1_IRQ.o .\CortexM3\ARM_GCC_541\Release\ADC_SAR_1_theACLK.o .\CortexM3\ARM_GCC_541\Release\ADC_SAR_1_Bypass.o .\CortexM3\ARM_GCC_541\Release\CyDmac.o .\CortexM3\ARM_GCC_541\Release\CyFlash.o .\CortexM3\ARM_GCC_541\Release\CyLib.o .\CortexM3\ARM_GCC_541\Release\cyPm.o .\CortexM3\ARM_GCC_541\Release\CySpc.o .\CortexM3\ARM_GCC_541\Release\cyutils.o .\CortexM3\ARM_GCC_541\Release\cy_em_eeprom.o .\CortexM3\ARM_GCC_541\Release\UART.o .\CortexM3\ARM_GCC_541\Release\UART_PM.o .\CortexM3\ARM_GCC_541\Release\UART_INT.o .\CortexM3\ARM_GCC_541\Release\UART_BOOT.o .\CortexM3\ARM_GCC_541\Release\UART_IntClock.o .\CortexM3\ARM_GCC_541\Release\CyBootAsmGnu.o
+arm-none-eabi-ar.exe: creating .\CortexM3\ARM_GCC_541\Release\RoboArmTest.a
+arm-none-eabi-gcc.exe -Wl,--start-group -o "C:\Users\valer\Desktop\Other Projects\RoboArm\RoboarmTest\RoboArmTest.cydsn\CortexM3\ARM_GCC_541\Release\RoboArmTest.elf" .\CortexM3\ARM_GCC_541\Release\main.o .\CortexM3\ARM_GCC_541\Release\cyfitter_cfg.o .\CortexM3\ARM_GCC_541\Release\cymetadata.o .\CortexM3\ARM_GCC_541\Release\Cm3Start.o .\CortexM3\ARM_GCC_541\Release\RoboArmTest.a "C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CortexM3\ARM_GCC_541\Release\CyComponentLibrary.a" -mcpu=cortex-m3 -mthumb -L Generated_Source\PSoC5 -Wl,-Map,.\CortexM3\ARM_GCC_541\Release/RoboArmTest.map -T Generated_Source\PSoC5\cm3gcc.ld -specs=nano.specs -Wl,--gc-sections -g -ffunction-sections -Os -ffat-lto-objects -Wl,--end-group
+cyelftool.exe -C "C:\Users\valer\Desktop\Other Projects\RoboArm\RoboarmTest\RoboArmTest.cydsn\CortexM3\ARM_GCC_541\Release\RoboArmTest.elf" --flash_row_size 256 --flash_size 262144 --flash_offset 0x00000000
+No ELF section .cychecksum found, creating one
+Application checksum calculated and stored in ELF section .cychecksum
+Checksum calculated and stored in ELF section .cymeta
+cyelftool.exe -S "C:\Users\valer\Desktop\Other Projects\RoboArm\RoboarmTest\RoboArmTest.cydsn\CortexM3\ARM_GCC_541\Release\RoboArmTest.elf"
+Flash used: 2902 of 262144 bytes (1.1%).
+SRAM used: 2577 of 65536 bytes (3.9%). Stack: 2048 bytes. Heap: 128 bytes.
+--------------- Build Succeeded: 12/06/2018 20:24:14 ---------------

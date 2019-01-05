@@ -1,0 +1,6 @@
+C:\Users\valer\Desktop\Other Projects\RoboArm\RoboarmTest\RoboArmTest.cydsn\RoboArmTest.cyprj|3831aa70-2805-42b7-a155-8c6b8f2ec7f5
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|39c87a60-d3a0-44d7-a140-0117380da9e0
+C:\Users\valer\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|018d0b5e-9aab-454e-a2d6-006e090be360
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|91fede53-304f-4d6b-8ba2-55032ee840c3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|a98390f6-ba13-426c-b43b-4ac10081ae6b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ff95c98c-1c09-497b-9b08-3633f74280fb

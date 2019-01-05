@@ -1,0 +1,70 @@
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/CortexM3/ARM_GCC_541/Release/main.o : C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CyLib.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CySpc.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_1.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_1_aliases.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_2.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_2_aliases.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_3.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_3_aliases.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_Values.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/UART.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/UART_IntClock.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cmsis_compiler.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cyPm.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cydevice.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cypins.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cytypes.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/project.h C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/main.c 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_1.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_1_aliases.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_2.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_2_aliases.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_3.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_3_aliases.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/Pot_Values.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/UART.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/UART_IntClock.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cmsis_compiler.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/Users/valer/Desktop/Other\ Projects/RoboArm/RoboarmTest/RoboArmTest.cydsn/main.c : 
+
